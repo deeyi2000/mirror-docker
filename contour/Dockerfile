@@ -1,1 +1,1 @@
-FROM gcr.io/heptio-images/contour:v0.8.0
+FROM gcr.io/heptio-images/contour:master
